@@ -347,18 +347,12 @@ If you use E2E-Spot in your research, please cite:
 
 **Hicham EL MEHDI**  
 AI Engineer — Computer Vision & Deep Learning  
-[GitHub](https://github.com/MehdiICH) | [LinkedIn](your-linkedin)
+[GitHub](https://github.com/MehdiICH) | [LinkedIn](www.linkedin.com/in/elmehdihichamn)
 
-**Mohammed Imrane GRICH**  
-[GitHub](your-github) | [LinkedIn](your-linkedin)
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🔮 Future Work
 
